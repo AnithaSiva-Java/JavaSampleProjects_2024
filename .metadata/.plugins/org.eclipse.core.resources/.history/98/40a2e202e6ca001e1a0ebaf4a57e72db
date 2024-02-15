@@ -1,0 +1,13 @@
+package SampleA;
+
+public class TestA {
+	
+	public static void main(String[] args) {
+		
+		System.out.print("Have a Good Day!!!");
+		System.out.print(false);
+		System.out.println("Have a Blessed Day");
+	}
+	
+
+}

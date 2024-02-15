@@ -1,0 +1,10 @@
+package Datatypes;
+
+public class TestPrimitive {
+	
+	private void sysout() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
